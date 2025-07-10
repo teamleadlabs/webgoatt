@@ -1,1 +1,1 @@
-# webgoatt
+# webgoat
